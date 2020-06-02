@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/zasoby">
+        <file>img/snake.png</file>
+        <file>img/apple.png</file>
+        <file>img/green.png</file>
+        <file>img/red.png</file>
+        <file>sounds/appleSound.mp3</file>
+        <file>sounds/music.mp3</file>
+    </qresource>
+    <qresource prefix="/text"/>
+</RCC>
